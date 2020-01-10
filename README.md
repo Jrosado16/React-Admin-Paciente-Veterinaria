@@ -1,6 +1,6 @@
-## Administracion de Pacientes ~Veterinaria~
+## Administracion de Pacientes Veterinaria
 
-##### Este es un proyecto para administrar pacientes en una veterinaria el cual te permitira llevar un registro de cada uno de ellos.
+##### Este es un proyecto para administrar pacientes en una veterinaria el cual te permitira llevar un registro de cada uno de ellos. Los registros se almacenan en el LocalStorage.
 
 Iniciamos el proyecto con el siguiente comando:
 
