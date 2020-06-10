@@ -12,6 +12,6 @@ Para construir el proyecto y subirlo a produccion usamos el suguiente comando
 
 ### Deployment
 
-Demo: https://gifted-hypatia-72ea82.netlify.com/
+Demo: https://veterinaria-react-api.netlify.app/
 
 
